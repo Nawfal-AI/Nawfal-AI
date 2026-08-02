@@ -1,6 +1,6 @@
 ### Hi, I'm Nawfal 👋
 
-MSc AI graduate (Università della Svizzera italiana, 2026) with a full-stack software engineering background. I build ML/NLP systems end-to-end — from raw data through to a working, documented, deployable system — and I'm currently looking for my first full-time role as a **Data/ML Engineer**.
+MSc AI graduate (Università della Svizzera italiana, 2026) with a full-stack software engineering background. I build ML/NLP systems end-to-end — from raw data through to a working, documented, deployable system — and I'm currently looking for my first full-time role as a **Data/ML Engineer** and similar roles.
 
 - 🔭 Background in data pipelines, RAG, LLM fine-tuning, and MLOps (Docker, CI/CD, FastAPI)
 - 🌱 Currently finishing my thesis on few-shot visual learning for pest detection in precision agriculture
