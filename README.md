@@ -7,6 +7,19 @@ from raw data through training, evaluation, and deployment as a working, documen
 
 ---
 
+## About me
+
+I'm a fresh MSc AI graduate from USI Lugano with a full-stack software engineering background.
+I build complete ML systems — not just models, but pipelines, APIs, and deployed services with monitoring.
+My thesis focused on few-shot visual learning for pest detection in precision agriculture, and my broader
+project work spans LLM fine-tuning, RAG agents, NLP tooling, and imitation-learning robotics policies with
+full MLOps pipelines.
+
+> *(Updated November 2026 — overhauled from an earlier draft that still said "currently finishing my thesis".
+> Thesis is done. Degree is in hand. Looking for my first full-time role.)*
+
+---
+
 ## 🛠 What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,7 +43,7 @@ from raw data through training, evaluation, and deployment as a working, documen
 | [DPO-Safety-Alignment-Phi3](https://github.com/Nawfal-AI/DPO-Safety-Alignment-Phi3) | DPO/QLoRA safety alignment of Phi-3-mini on a single T4 GPU, with eval harness | DPO · QLoRA · PEFT · PyTorch |
 | [manipulation-policy-pipeline](https://github.com/Nawfal-AI/manipulation-policy-pipeline) | Imitation-learning policy with full MLOps: FastAPI · Docker · Kubernetes · Prometheus/Grafana | MLOps · BC · Diffusion Policy |
 | [AI-Resume-Skill-Extractor](https://github.com/Nawfal-AI/AI-Resume-Skill-Extractor) | NLP tool scoring resume–JD match (TF-IDF + spaCy), packaged, tested, containerised, Streamlit UI | NLP · spaCy · Docker · CI/CD |
-| [aspilanta-fewshot-detection](https://github.com/Nawfal-AI/aspilanta-fewshot-detection) | MSc thesis — few-shot pest detection on yellow sticky traps in precision agriculture | Few-shot · Computer Vision · PyTorch |
+| [aspilanta-fewshot-detection](https://github.com/Nawfal-AI/aspilanta-fewshot-detection) | MSc thesis — few-shot pest detection on yellow sticky traps in precision agriculture | Few-shot · CV · PyTorch |
 
 ---
 
