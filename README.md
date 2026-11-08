@@ -10,9 +10,9 @@ from raw data through training, evaluation, and deployment as a working, documen
 ## About me
 
 I'm a fresh MSc AI graduate from USI Lugano with a full-stack software engineering background.
-I build complete ML systems not just models, but pipelines, APIs, and deployed services with monitoring.
-My thesis focused on few-shot visual learning for pest detection in precision agriculture, and my broader
-project work spans LLM fine-tuning, RAG agents, NLP tooling, and imitation-learning robotics policies with
+I build complete ML systems; not just models, but pipelines, APIs and deployed services with monitoring.
+My thesis focused on few-shot visual learning for pest detection in precision agriculture and my broader
+project work spans LLM fine-tuning, RAG agents, NLP tooling and imitation-learning robotics policies with
 full MLOps pipelines.
 
 
@@ -47,8 +47,9 @@ full MLOps pipelines.
 
 ## 📊 GitHub activity
 
-![Nawfal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nawfal-AI&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawfal-AI&layout=compact&hide_border=true&langs_count=6)
+![Profile views](https://komarev.com/ghpvc/?username=Nawfal-AI&color=0e75b6&style=flat&label=Profile+views)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nawfal-AI&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Nawfal-AI)
 
 ---
 
