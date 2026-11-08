@@ -1,6 +1,6 @@
 # Hi, I'm Nawfal 👋
 
-**MSc AI · Università della Svizzera italiana (2026)** — I build ML/NLP systems end-to-end:
+**MSc AI · Università della Svizzera italiana (2026)**  I build ML/NLP systems end-to-end:
 from raw data through training, evaluation, and deployment as a working, documented, production-ready service.
 
 > 🟢 **Available for hire** — ML Engineer · Data Engineer · NLP/CV Engineer · Switzerland & EU
@@ -10,13 +10,11 @@ from raw data through training, evaluation, and deployment as a working, documen
 ## About me
 
 I'm a fresh MSc AI graduate from USI Lugano with a full-stack software engineering background.
-I build complete ML systems — not just models, but pipelines, APIs, and deployed services with monitoring.
+I build complete ML systems not just models, but pipelines, APIs, and deployed services with monitoring.
 My thesis focused on few-shot visual learning for pest detection in precision agriculture, and my broader
 project work spans LLM fine-tuning, RAG agents, NLP tooling, and imitation-learning robotics policies with
 full MLOps pipelines.
 
-> *(Updated November 2026 — overhauled from an earlier draft that still said "currently finishing my thesis".
-> Thesis is done. Degree is in hand. Looking for my first full-time role.)*
 
 ---
 
