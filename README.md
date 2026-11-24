@@ -7,13 +7,14 @@ I build end-to-end AI systems: from research prototypes to production deployment
 Open to: ML Engineer · MLOps Engineer · Computer Vision Engineer · Data Engineering · Applied AI roles
 
 📍 Lugano, Switzerland &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/nawfal-abdul-malick) &nbsp;|&nbsp; 📧 [Gmail](mailto:nawfal1022@gmail.com)
+
 ---
 
 ## 🌱 Computer Vision
 
 | Repository | What it is | Highlights |
 |---|---|---|
-| [aspilanta-fewshot-detection](https://github.com/Nawfal-AI/aspilanta-fewshot-detection) | MSc thesis — few-shot pest detector for yellow sticky traps | AP@50 = 0.981 from only 44 real examples; synthetic data generation + CLIP filter |
+| [aspilanta-fewshot-detection](https://github.com/Nawfal-AI/aspilanta-fewshot-detection) | MSc thesis: rare pest detection using synthetic data generation, YOLOv8 staged transfer learning and CLIP filter | AP@50 = 0.981 on target domain; nine ablations including three that contradicted the design |
 | [yolov8-edge-distillation](https://github.com/Nawfal-AI/yolov8-edge-distillation) | YOLOv8s→YOLOv8n knowledge distillation for edge deployment | 0.9615 mAP@50 at 120.9 FPS, 3.46× smaller; PTQ + ONNX export |
 | [Action-Event-Focused-Captioning](https://github.com/Nawfal-AI/Action-Event-Focused-Captioning) | BLIP / ViT-GPT2 / GIT fine-tuned for action-focused video captioning | BLEU/METEOR/ROUGE eval before & after fine-tuning; video activity timeline demo |
 | [BUDDI-Reproduction](https://github.com/Nawfal-AI/BUDDI-Reproduction) | Reproducibility study of CVPR 2024 paper on 3D social pose estimation | 3-phase study; novel mechanistic probes (RQ-5, RQ-7) beyond the original paper |
@@ -35,7 +36,7 @@ Open to: ML Engineer · MLOps Engineer · Computer Vision Engineer · Data Engin
 
 | Repository | What it is | Highlights |
 |---|---|---|
-| [manipulation-policy-pipeline](https://github.com/Nawfal-AI/manipulation-policy-pipeline) | Imitation-learning policy (BC + Diffusion Policy) with a full ML platform | MLflow · Kubernetes · Helm · Prometheus/Grafana · Evidently drift · Ansible · CI/CD |
+| [manipulation-policy-pipeline](https://github.com/Nawfal-AI/manipulation-policy-pipeline) | End-to-end ML platform for robotics policy learning: Behavioural Cloning and Diffusion Policy with full production infrastructure | MLflow experiment tracking · FP16 + ONNX inference · Kubernetes + HPA · Prometheus + Grafana · Evidently drift monitoring · Ansible deployment |
 
 ---
 
