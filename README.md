@@ -1,60 +1,57 @@
-# Hi, I'm Nawfal 👋
+# Hi, I'm Nawfal Abdul Malick 👋
 
-**MSc AI · Università della Svizzera italiana (2026)**  I build ML/NLP systems end-to-end:
-from raw data through training, evaluation, and deployment as a working, documented, production-ready service.
+MSc Artificial Intelligence (USI Lugano, 2026) · Available for roles in Switzerland · [LinkedIn](https://linkedin.com/in/nawfal-abdul-malick) · [GitHub](https://github.com/Nawfal-AI)
 
-> 🟢 **Available for hire** — ML Engineer · Data Engineer · NLP/CV Engineer · Switzerland & EU
-
----
-
-## About me
-
-I'm a fresh MSc AI graduate from USI Lugano with a full-stack software engineering background.
-I build complete ML systems; not just models, but pipelines, APIs and deployed services with monitoring.
-My thesis focused on few-shot visual learning for pest detection in precision agriculture and my broader
-project work spans LLM fine-tuning, RAG agents, NLP tooling and imitation-learning robotics policies with
-full MLOps pipelines.
-
+I build end-to-end ML systems — from research prototypes to production pipelines with Docker, CI/CD, and cloud deployment. My thesis work focused on few-shot visual learning for precision agriculture; my side projects span LLM agents, model compression, imitation learning, and NLP tooling.
 
 ---
 
-## 🛠 What I work with
+## 🌱 Computer Vision
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🔬 Projects worth a closer look
-
-| Project | What it shows | Stack |
+| Repository | What it is | Highlights |
 |---|---|---|
-| [insurance_agent](https://github.com/Nawfal-AI/insurance_agent) | RAG + tool-calling agent (calculator + glossary) over policy docs, served via FastAPI | LangChain · LangGraph · FastAPI · RAG |
-| [EagleSFT-Bilingual-Dataset-and-LLM-FineTuning](https://github.com/Nawfal-AI/EagleSFT-Bilingual-Dataset-and-LLM-FineTuning) | 536K-example EN↔RU SFT dataset built end-to-end + Qwen2.5 LoRA fine-tune | HuggingFace · LoRA · Qwen2.5 |
-| [DPO-Safety-Alignment-Phi3](https://github.com/Nawfal-AI/DPO-Safety-Alignment-Phi3) | DPO/QLoRA safety alignment of Phi-3-mini on a single T4 GPU, with eval harness | DPO · QLoRA · PEFT · PyTorch |
-| [manipulation-policy-pipeline](https://github.com/Nawfal-AI/manipulation-policy-pipeline) | Imitation-learning policy with full MLOps: FastAPI · Docker · Kubernetes · Prometheus/Grafana | MLOps · BC · Diffusion Policy |
-| [AI-Resume-Skill-Extractor](https://github.com/Nawfal-AI/AI-Resume-Skill-Extractor) | NLP tool scoring resume–JD match (TF-IDF + spaCy), packaged, tested, containerised, Streamlit UI | NLP · spaCy · Docker · CI/CD |
-| [aspilanta-fewshot-detection](https://github.com/Nawfal-AI/aspilanta-fewshot-detection) | MSc thesis — few-shot pest detection on yellow sticky traps in precision agriculture | Few-shot · CV · PyTorch |
+| [aspilanta-fewshot-detection](https://github.com/Nawfal-AI/aspilanta-fewshot-detection) | MSc thesis — few-shot pest detector for yellow sticky traps | AP@50 = 0.981 from only 44 real examples; synthetic data generation + CLIP filter |
+| [yolov8-edge-distillation](https://github.com/Nawfal-AI/yolov8-edge-distillation) | YOLOv8s→YOLOv8n knowledge distillation for edge deployment | 0.9615 mAP@50 at 120.9 FPS, 3.46× smaller; PTQ + ONNX export |
+| [Action-Event-Focused-Captioning](https://github.com/Nawfal-AI/Action-Event-Focused-Captioning) | BLIP / ViT-GPT2 / GIT fine-tuned for action-focused video captioning | BLEU/METEOR/ROUGE eval before & after fine-tuning; video activity timeline demo |
+| [BUDDI-Reproduction](https://github.com/Nawfal-AI/BUDDI-Reproduction) | Reproducibility study of CVPR 2024 paper on 3D social pose estimation | 3-phase study; novel mechanistic probes (RQ-5, RQ-7) beyond the original paper |
+| [Cat-Dog-Classification](https://github.com/Nawfal-AI/Cat-Dog-Classification) | ResNet50 transfer learning binary classifier | 99.20% val accuracy; two-phase fine-tuning (frozen → full) |
 
 ---
 
-## 📊 GitHub activity
+## 🤖 LLM & Agents
 
-![Profile views](https://komarev.com/ghpvc/?username=Nawfal-AI&color=0e75b6&style=flat&label=Profile+views)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nawfal-AI&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Nawfal-AI)
+| Repository | What it is | Highlights |
+|---|---|---|
+| [insurance_agent](https://github.com/Nawfal-AI/insurance_agent) | Production LLM agent (RAG + tools) for Swiss public health insurance Q&A | LangGraph ReAct · FastAPI · Streamlit · MLflow · Docker · AWS ECS · CI/CD |
+| [EagleSFT-Bilingual-Dataset-and-LLM-FineTuning](https://github.com/Nawfal-AI/EagleSFT-Bilingual-Dataset-and-LLM-FineTuning) | 536K-example EN-RU bilingual SFT dataset + Qwen2.5 LoRA fine-tuning | End-to-end pipeline: translation, dedup, quality filtering, categorisation |
+| [DPO-Safety-Alignment-Phi3](https://github.com/Nawfal-AI/DPO-Safety-Alignment-Phi3) | Reproducible DPO + QLoRA safety alignment for Phi-3-mini on a single T4 | Toxicity rate reduced from 0.00326 → 0.000186; full eval harness + honest NOTES.md |
 
 ---
 
-## 📬 Get in touch
+## ⚙️ MLOps & Production Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nawfal-abdul-malick)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nawfal1022@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nawfal-AI)
+| Repository | What it is | Highlights |
+|---|---|---|
+| [manipulation-policy-pipeline](https://github.com/Nawfal-AI/manipulation-policy-pipeline) | Imitation-learning policy (BC + Diffusion Policy) with a full ML platform | MLflow · Kubernetes · Helm · Prometheus/Grafana · Evidently drift · Ansible · CI/CD |
+
+---
+
+## 🔤 NLP & Tooling
+
+| Repository | What it is | Highlights |
+|---|---|---|
+| [AI-Resume-Skill-Extractor](https://github.com/Nawfal-AI/AI-Resume-Skill-Extractor) | NLP tool that extracts skills from resume PDFs and scores them against a job description | spaCy + TF-IDF · Streamlit app · Docker · pytest + GitHub Actions CI |
+
+---
+
+## 🛠 Stack
+
+`Python` · `PyTorch` · `Transformers` · `YOLOv8` · `LangChain / LangGraph` · `FastAPI` · `Docker` · `Kubernetes` · `AWS` · `MLflow` · `ONNX` · `Streamlit` · `CI/CD (GitHub Actions)`
+
+---
+
+## 📫 Get in touch
+
+- LinkedIn: [linkedin.com/in/nawfal-abdul-malick](https://linkedin.com/in/nawfal-abdul-malick)
+- Location: Lugano / Switzerland (L permit — eligible to work immediately)
+- Open to: ML Engineer · MLOps Engineer · Computer Vision Engineer · Applied AI roles
