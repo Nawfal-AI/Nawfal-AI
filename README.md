@@ -1,9 +1,12 @@
 # Hi, I'm Nawfal Abdul Malick 👋
 
-MSc Artificial Intelligence (USI Lugano, 2026) · Available for roles in Switzerland · [LinkedIn](https://linkedin.com/in/nawfal-abdul-malick) · [GitHub](https://github.com/Nawfal-AI)
+**MSc in Artificial Intelligence · Università della Svizzera italiana (USI), 2026**
 
-I build end-to-end ML systems — from research prototypes to production pipelines with Docker, CI/CD, and cloud deployment. My thesis work focused on few-shot visual learning for precision agriculture; my side projects span LLM agents, model compression, imitation learning, and NLP tooling.
+I build end-to-end AI systems: from research prototypes to production deployments with real latency budgets, CI/CD and monitoring. My work spans computer vision, generative models, LLM agents and robotics policy learning. Every project here is fully reproducible and ships with tests.
 
+Open to: ML Engineer · MLOps Engineer · Computer Vision Engineer · Data Engineering · Applied AI roles
+
+📍 Lugano, Switzerland &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/nawfal-abdul-malick) &nbsp;|&nbsp; 📧 [Gmail](mailto:nawfal1022@gmail.com)
 ---
 
 ## 🌱 Computer Vision
@@ -44,14 +47,14 @@ I build end-to-end ML systems — from research prototypes to production pipelin
 
 ---
 
-## 🛠 Stack
+## 🛠 Tech Stack
 
-`Python` · `PyTorch` · `Transformers` · `YOLOv8` · `LangChain / LangGraph` · `FastAPI` · `Docker` · `Kubernetes` · `AWS` · `MLflow` · `ONNX` · `Streamlit` · `CI/CD (GitHub Actions)`
+**Languages** &nbsp; Python · SQL · Bash  
+**Deep Learning** &nbsp; PyTorch · Ultralytics YOLOv8 · HuggingFace Transformers · PEFT · TRL · Diffusers  
+**LLM / Agents** &nbsp; LangChain · LangGraph · FAISS · Sentence Transformers · spaCy  
+**MLOps** &nbsp; MLflow · Docker · Kubernetes · Helm · Ansible · GitHub Actions · AWS ECS  
+**Inference** &nbsp; ONNX · TensorRT · ONNXRuntime · torch.compile · FP16 · INT8 PTQ  
+**Monitoring** &nbsp; Prometheus · Grafana · EvidentlyAI · CloudWatch  
+**APIs and Frontend** &nbsp; FastAPI · Streamlit  
 
----
 
-## 📫 Get in touch
-
-- LinkedIn: [linkedin.com/in/nawfal-abdul-malick](https://linkedin.com/in/nawfal-abdul-malick)
-- Location: Lugano / Switzerland (L permit — eligible to work immediately)
-- Open to: ML Engineer · MLOps Engineer · Computer Vision Engineer · Applied AI roles
